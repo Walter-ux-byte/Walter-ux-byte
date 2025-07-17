@@ -1,6 +1,6 @@
 <h1 align="center">HOLA, QUE TAL 🤙 <img  width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Soy+Walter+dispuesto+a+aprender+y+mejorar&center=true&width=&height=60&textColor=00FF00&color=00FF00"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Soy+Walter+dispuesto+a+aprender+y+mejorar&center=true&width=500&height=60&textColor=00FF00&color=00FF00"></a>
 </p>
 <hr/>
 <h4 align="center">Estudiante del Primer Semestre la carrera de DESARROLLO DE SOFTWARE. Siempre intentando mejorar, dispuesto aprender y a desarrollar nuevas habilidades que sirvan para la vida tanto profesional como cotidiana.</h4>
